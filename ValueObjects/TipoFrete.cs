@@ -11,6 +11,5 @@ namespace EFCoreSistemaDePedidos.ValueObjects
         CIF,
         FOB,
         SemFrete,
-
     }
 }
