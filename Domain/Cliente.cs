@@ -14,5 +14,6 @@ namespace EFCoreSistemaDePedidos.Domain
         public String? CEP { get; set; } 
         public String? Estado { get; set; }
         public String? Cidade { get; set; }
+        public String? Email { get; set;}
     }
 }
