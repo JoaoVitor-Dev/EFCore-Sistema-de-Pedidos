@@ -30,7 +30,6 @@ C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\Microsoft.IdentityMode
 C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\System.Runtime.Caching.dll
@@ -55,3 +54,18 @@ C:\Estudos\DotNet\EFCoreSistemaDePedidos\obj\Debug\net6.0\refint\EFCoreSistemaDe
 C:\Estudos\DotNet\EFCoreSistemaDePedidos\obj\Debug\net6.0\EFCoreSistemaDePedidos.pdb
 C:\Estudos\DotNet\EFCoreSistemaDePedidos\obj\Debug\net6.0\EFCoreSistemaDePedidos.genruntimeconfig.cache
 C:\Estudos\DotNet\EFCoreSistemaDePedidos\obj\Debug\net6.0\ref\EFCoreSistemaDePedidos.dll
+C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\Humanizer.dll
+C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\System.CodeDom.dll
+C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\Azure.Core.dll
+C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\Azure.Identity.dll
+C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Estudos\DotNet\EFCoreSistemaDePedidos\bin\Debug\net6.0\System.Memory.Data.dll

@@ -14,7 +14,7 @@ namespace EFCoreSistemaDePedidos.Data
         public DbSet<Pedido> Pedidos { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=MAXDATA-DEV-4;Database=EFCoreSistemaDePedidos;User Id=sa;Password=macro01;");
+            optionsBuilder.UseSqlServer("Server=localhost;Database=EFCoreSistemaDePedidos;User Id=sa;Password=macro01;");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
